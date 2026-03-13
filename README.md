@@ -18,4 +18,4 @@
 
 ```powershell
 cd ~/AppData/Roaming/FlowLauncher/Themes
-curl -o trueGlass.xaml [https://raw.githubusercontent.com/swirik/trueGlass-theme/main/trueGlass.xaml](https://raw.githubusercontent.com/swirik/trueGlass-theme/main/trueGlass.xaml)
+curl -o trueGlass.xaml https://raw.githubusercontent.com/swirik/trueGlass-theme/main/trueGlass.xaml
